@@ -1,4 +1,7 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI&nbsp;THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I&nbsp;am&nbsp;HoneyTian&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
-<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Love+This+World+And+Love+You" alt="Typing SVG" /></a>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Love+This+World+And+Love+You" alt="Typing SVG" /></a>
+</p>
+
